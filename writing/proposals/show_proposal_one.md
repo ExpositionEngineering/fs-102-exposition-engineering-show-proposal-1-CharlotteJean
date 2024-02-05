@@ -1,4 +1,4 @@
-# Show Proposal One
+# Show Proposal One (rough draft)
 
 ## ✨ Table of Contents
 
