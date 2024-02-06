@@ -39,7 +39,7 @@ TODO: Provide all of the required details for your podcast episode.
 TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
 Topic]`.
 
-- **Title**: Undecided? Not For Long 
+- **Title**: Undecided With (Guest Name) 
 - **Host**: Whoever we choose as the episode 1 host; preferably someone who has yet to declare a major and has strong speaking skills.
 - **Guest**: One of the "Exploratory Advisors" at Allegheny.
 
