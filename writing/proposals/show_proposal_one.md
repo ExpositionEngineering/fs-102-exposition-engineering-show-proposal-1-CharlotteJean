@@ -28,7 +28,7 @@ An introduction to the show including its purpose, a discussion around the stres
 
 ## 🔬 Show Details
 
-- **Title**: Charlotte With (Guest Name)
+- **Title**: (Guest Name) On Picking A Major
 - **Host**: Charlotte
 - **Guest**: One of the "Exploratory Advisors" at Allegheny.
 
