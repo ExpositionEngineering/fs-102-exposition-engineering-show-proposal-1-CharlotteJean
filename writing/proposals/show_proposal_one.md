@@ -1,4 +1,4 @@
-# Show Proposal One (rough draft)
+# Show Proposal One
 
 ## ✨ Table of Contents
 
@@ -50,7 +50,7 @@ An introduction to the show including its purpose, a discussion around the stres
 
 ## 🎉 Show Description
 
- The episode will begin with an introduction of the show and its purpose: to help students who have yet to declare a major in deciding what major to pick. The host will explain that each episode from there out will be an overview of a different major available here at Allegheny, including details such as who to talk to for more information on that major, the required classes, common career paths available to those with that major, etc. 
+ The episode will begin with an introduction of podcast and its purpose: to help students who have yet to declare a major in deciding what major to pick. The host will explain that each episode from there out will be an overview of a different major available here at Allegheny, including details such as who to talk to for more information on that major, the required classes, common career paths available to those with that major, etc. 
 
  The host will then introduce our guest, who will be one of the Exploratory Advisors at Allegheny. The host will invite the guest to explain what their job is and how they help students in selecting their major. The host and guest will then discuss the stressors around picking a major, and how to best find the major right for you. The host will ask the guest what resources students have available to them to help them decide/get more information on Allegheny's majors. The host and guest will then discuss what steps a student must take to declare a major, and anything they should consider before making their final choice. 
  
@@ -65,10 +65,3 @@ After a person listens to this episode, they should be encouraged to start looki
 - **Reference One**: https://sites.allegheny.edu/advising/advising-overview/?_gl=1*16licxk*_ga*MTUwMDAwNDMwOS4xNjg0Mzc3MTQ0*_ga_D27B55D8R3*MTcwNzA5Mzc1OS4zNS4xLjE3MDcwOTQwNTIuMTAuMC4w
 - **Reference Two**: https://allegheny.edu/academics/programs/#:~:text=After%20first%20exploring%20several%20interests,keep%20your%20mind%20wide%20open.
 - **Reference Three**: https://sites.allegheny.edu/registrar/academic-programs/majors/
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
