@@ -20,7 +20,7 @@
 
 ## Charlotte Russell
 
-## I adhered to the Allegheny College Honor Code while completing this project. - C.R
+## I adhered to the Allegheny College Honor Code while completing this project.
 
 ## 🏁 One Sentence Pitch
 
@@ -62,6 +62,6 @@ After a person listens to this episode, they should be encouraged to start looki
 
 ## 🦜 References
 
-- **Reference One**: https://sites.allegheny.edu/advising/advising-overview/?_gl=1*16licxk*_ga*MTUwMDAwNDMwOS4xNjg0Mzc3MTQ0*_ga_D27B55D8R3*MTcwNzA5Mzc1OS4zNS4xLjE3MDcwOTQwNTIuMTAuMC4w
-- **Reference Two**: https://allegheny.edu/academics/programs/#:~:text=After%20first%20exploring%20several%20interests,keep%20your%20mind%20wide%20open.
-- **Reference Three**: https://sites.allegheny.edu/registrar/academic-programs/majors/
+- **Reference One**: [text] (https://sites.allegheny.edu/advising/advising-overview/?_gl=1*16licxk*_ga*MTUwMDAwNDMwOS4xNjg0Mzc3MTQ0*_ga_D27B55D8R3*MTcwNzA5Mzc1OS4zNS4xLjE3MDcwOTQwNTIuMTAuMC4w)
+- **Reference Two**: [text] (https://allegheny.edu/academics/programs/#:~:text=After%20first%20exploring%20several%20interests,keep%20your%20mind%20wide%20open.)
+- **Reference Three**: [text] (https://sites.allegheny.edu/registrar/academic-programs/majors/)
