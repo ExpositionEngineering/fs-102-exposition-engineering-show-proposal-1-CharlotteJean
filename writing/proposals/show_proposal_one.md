@@ -20,7 +20,13 @@
 
 ## Charlotte Russell
 
-## I adhered to the Allegheny College Honor Code while completing this project.
+## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
+
+I adhered to the Allegheny College Honor Code while completing this project.
+
+**IMPORTANT:** If you do not type the required sentence then the course
+instructor will not know that you adhered to the Allegheny College Honor Code
+while completing the project.
 
 ## 🏁 One Sentence Pitch
 
@@ -52,7 +58,7 @@ An introduction to the show including its purpose, a discussion around the stres
 
  The episode will begin with an introduction of podcast and its purpose: to help students who have yet to declare a major in deciding what major to pick. The host will explain that each episode from there out will be an overview of a different major available here at Allegheny, including details such as who to talk to for more information on that major, the required classes, common career paths available to those with that major, etc.
  The host will then introduce our guest, who will be one of the Exploratory Advisors at Allegheny. The host will invite the guest to explain what their job is and how they help students in selecting their major. The host and guest will then discuss the stressors around picking a major, and how to best find the major right for you. The host will ask the guest what resources students have available to them to help them decide/get more information on Allegheny's majors. The host and guest will then discuss what steps a student must take to declare a major, and anything they should consider before making their final choice.
-  The show will conclude with the host asking the guest what advice they have for students who are still deciding on a major, and then do a recap of what was covered in the show, highlighting important points such as the resources students can turn to when picking a major (the resources will be listed on the website for students to easily find.) The host will thank the guest for joining them, and inform viewers how to get ahold of the guest/where they can find them if they want more information. The host will then do a coined "outro" for the show.
+ The show will conclude with the host asking the guest what advice they have for students who are still deciding on a major, and then do a recap of what was covered in the show, highlighting important points such as the resources students can turn to when picking a major (the resources will be listed on the website for students to easily find.) The host will thank the guest for joining them, and inform viewers how to get ahold of the guest/where they can find them if they want more information. The host will then do a coined "outro" for the show.
 
 ## 📢 Call to Action
 
@@ -60,6 +66,6 @@ After a person listens to this episode, they should be encouraged to start looki
 
 ## 🦜 References
 
-- **Reference One**: [text] (https://sites.allegheny.edu/advising/advising-overview/?_gl=1*16licxk*_ga*MTUwMDAwNDMwOS4xNjg0Mzc3MTQ0*_ga_D27B55D8R3*MTcwNzA5Mzc1OS4zNS4xLjE3MDcwOTQwNTIuMTAuMC4w)
-- **Reference Two**: [text] (https://allegheny.edu/academics/programs/#:~:text=After%20first%20exploring%20several%20interests,keep%20your%20mind%20wide%20open.)
-- **Reference Three**: [text] (https://sites.allegheny.edu/registrar/academic-programs/majors/)
+- **Reference One**: [Allegheny Advising](https://sites.allegheny.edu/advising/advising-overview/?_gl=1*16licxk*_ga*MTUwMDAwNDMwOS4xNjg0Mzc3MTQ0*_ga_D27B55D8R3*MTcwNzA5Mzc1OS4zNS4xLjE3MDcwOTQwNTIuMTAuMC4w)
+- **Reference Two**: [Allegheny Academics](https://allegheny.edu/academics/programs/#:~:text=After%20first%20exploring%20several%20interests,keep%20your%20mind%20wide%20open.)
+- **Reference Three**: [Allegheny Registar](https://sites.allegheny.edu/registrar/academic-programs/majors/)
