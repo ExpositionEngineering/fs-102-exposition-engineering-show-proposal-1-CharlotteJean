@@ -34,9 +34,9 @@ An introduction to the show including its purpose, a discussion around the stres
 
 ## 🔬 Show Details
 
-- **Title**: (Guest Name) On Picking A Major
+- **Title**: Jennifer Dearden On Picking A Major
 - **Host**: Charlotte
-- **Guest**: One of the "Exploratory Advisors" at Allegheny.
+- **Guest**: Jennifer Dearden
 
 ## 📝 Show Objectives
 
