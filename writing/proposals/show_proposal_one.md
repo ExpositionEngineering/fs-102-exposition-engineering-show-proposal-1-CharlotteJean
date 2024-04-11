@@ -30,44 +30,47 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-An introduction to the show including its purpose, a discussion around the stress of choosing a major, things to consider when choosing a major, and an overview of the steps necessary to declare a major.
+An overview of the Art Science and Innovation Major/Program here at Allegheny.
 
 ## 🔬 Show Details
 
-- **Title**: Jennifer Dearden On Picking A Major
-- **Host**: Charlotte
-- **Guest**: Jennifer Dearden
+- **Title**: Heather Brand on The Art Science and Innovation Major
+- **Host**: Charlotte Russell
+- **Guest**: Heather Brand
 
 ## 📝 Show Objectives
 
-- **Objective One**: Introduce the show and its purpose.
-- **Objective Two**: Discuss the stress and things to consider when choosing a major.
-- **Objective Three**: Review the proccess of declaring a major.
+- **Objective One**: Discuss what exactly the Art Science and Innovation Major is and what kind of subjects it includes.
+- **Objective Two**: Discuss what kind of careers you can get with this major.
+- **Objective Three**: Discuss what kind of person this major would be a good fit for.
 
 ## 📚 Sample Questions
 
-- **Question One**: How does a student declare a major?
-- **Question Two**: Who can aid students in picking a major?
-- **Question Three**: Who can students talk to when they want to know more about a specific major?
+- **Question One**: What is the Art Science and Innovation Major about?
+- **Question Two**: What kind of careers can you get with this major?
+- **Question Three**: Who can students talk to when they want to know more about this major?
 
-- **Justification for Question One**: Provides explanation on how to declare a major and what that proccess looks like + the necessary steps that need to be taken.
-- **Justification for Question Two**: Provides students/viewers with a list of resources they can contact for assistance with picking a major.
-- **Justification for Question Three**: Points students/viewers in the right direction when they want to know more about a major they are considering.
+- **Justification for Question One**: Explanation of what the major is.
+- **Justification for Question Two**: Provides short list of careers that students can get with this major.
+- **Justification for Question Three**: Helps students find out if this major is right for them.
 
 ## 🎉 Show Description
 
-The episode will begin with an introduction of podcast and its purpose: to help students who have yet to declare a major in deciding what major to pick. The host will explain that each episode from there out will be an overview of a different major available here at Allegheny, including details such as who to talk to for more information on that major, the required classes, common career paths available to those with that major, etc.
+The host will do the coined intro for the show, then introduce themselves and then the guest, Heather Brand, and explain that they will be discussing the Art Science and Innovation Major here at Allegheny. They will thank her for being on the show today. After greetings, explain briefly that we don't have much time so we're gonna hop right into the questions. Add in that this major is of particular interest to the host because she is considering picking this major.
 
-The host will then introduce our guest, who will be one of the Exploratory Advisors at Allegheny. The host will invite the guest to explain what their job is and how they help students in selecting their major. The host and guest will then discuss the stressors around picking a major, and how to best find the major right for you. The host will ask the guest what resources students have available to them to help them decide/get more information on Allegheny's majors. The host and guest will then discuss what steps a student must take to declare a major, and anything they should consider before making their final choice.
+They will ask Professor Brand what her job is here at Allegheny and how involved she is with the Art Science and Innovation Program. 
 
-The show will conclude with the host asking the guest what advice they have for students who are still deciding on a major, and then do a recap of what was covered in the show, highlighting important points such as the resources students can turn to when picking a major (the resources will be listed on the website for students to easily find.) The host will thank the guest for joining them, and inform viewers how to get ahold of the guest/where they can find them if they want more information. The host will then do a coined "outro" for the show.
+Host will ask the guest about what the Art Sci and Innovation is and what it entails. They will then ask about the major's classes and coursework, career opportunities, and about what kind of person this major would be a good fit for. They will also ask about where students can learn more about this major.
+
+The host will explain that's all the time we have for today, and do a quick recap of the resources students can reach out to for assistance. They will thank guest for being on the podcast and their time today, and thank audience for tuning in, then finish up with an ourtro.
+
 
 ## 📢 Call to Action
 
-After a person listens to this episode, they should be encouraged to start looking into different majors that interest them in order to help them best select what upcoming episodes to listen to. They should also consider contacting the resources the guest provided to help them start their journey.
+After a person listens to this episode, they should be encouraged to find out more about the Art Science and Innovation Major.
 
 ## 🦜 References
 
-- **Reference One**: [Allegheny Advising](https://sites.allegheny.edu/advising/advising-overview/?_gl=1*16licxk*_ga*MTUwMDAwNDMwOS4xNjg0Mzc3MTQ0*_ga_D27B55D8R3*MTcwNzA5Mzc1OS4zNS4xLjE3MDcwOTQwNTIuMTAuMC4w)
-- **Reference Two**: [Allegheny Academics](https://allegheny.edu/academics/programs/#:~:text=After%20first%20exploring%20several%20interests,keep%20your%20mind%20wide%20open.)
-- **Reference Three**: [Allegheny Registar](https://sites.allegheny.edu/registrar/academic-programs/majors/)
+- [Heather Brand Bio](https://sites.allegheny.edu/directory/employees/brand-heather/)
+- [Art Science and Innovation Major](https://allegheny.edu/academics/programs/art-science-innovation/)
+- [Art Science and Innovation Courses](https://allegheny.edu/academics/programs/art-science-innovation/courses/)
