@@ -18,13 +18,11 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## Charlotte Russell
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
-
+I adhered to the Allegheny College Honor Code while completing this project.
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -32,71 +30,46 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+An overview of the Art Science and Innovation Major/Program here at Allegheny.
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: Heather Brand on The Art Science and Innovation Major
+- **Host**: Charlotte Russell
+- **Guest**: Heather Brand
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**: Discuss what exactly the Art Science and Innovation Major is and what kind of subjects it includes.
+- **Objective Two**: Discuss what kind of careers you can get with this major.
+- **Objective Three**: Discuss what kind of person this major would be a good fit for.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: What is the Art Science and Innovation Major about?
+- **Question Two**: What kind of careers can you get with this major?
+- **Question Three**: Who can students talk to when they want to know more about this major?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
-
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: Explanation of what the major is.
+- **Justification for Question Two**: Provides short list of careers that students can get with this major.
+- **Justification for Question Three**: Helps students find out if this major is right for them.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+The host will do the coined intro for the show, then introduce themselves and then the guest, Heather Brand, and explain that they will be discussing the Art Science and Innovation Major here at Allegheny. They will thank her for being on the show today. After greetings, explain briefly that we don't have much time so we're gonna hop right into the questions. Add in that this major is of particular interest to the host because she is considering picking this major.
 
+They will ask Professor Brand what her job is here at Allegheny and how involved she is with the Art Science and Innovation Program.
+
+Host will ask the guest about what the Art Sci and Innovation is and what it entails. They will then ask about the major's classes and coursework, career opportunities, and about what kind of person this major would be a good fit for. They will also ask about where students can learn more about this major.
+
+The host will explain that's all the time we have for today, and do a quick recap of the resources students can reach out to for assistance. They will thank guest for being on the podcast and their time today, and thank audience for tuning in, then finish up with an ourtro.
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+After a person listens to this episode, they should be encouraged to find out more about the Art Science and Innovation Major.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- **Reference One**: [Heather Brand Bio](https://sites.allegheny.edu/directory/employees/brand-heather/)
+- **Reference Two**: [Art Science and Innovation Major](https://allegheny.edu/academics/programs/art-science-innovation/)
+- **Reference Three**: [Art Science and Innovation Courses](https://allegheny.edu/academics/programs/art-science-innovation/courses/)
